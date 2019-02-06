@@ -1,0 +1,83 @@
+# Config
+rss: https://geekmubai.com/feed         
+favicon: https://mubai.oss-cn-hangzhou.aliyuncs.com/icon.png
+blog_logo: 
+header_image: https://mubai.oss-cn-hangzhou.aliyuncs.com/background.jpg
+bio: 做一个特立独行的少数派
+post_toc: true
+
+# Keywords
+keywords: hexo, casper, ghost, theme
+
+# Menu
+menu:
+  ABOUT: /about
+  ARCHIVES: /archives
+  # you can add here
+
+# author
+author_image: https://mubai.oss-cn-hangzhou.aliyuncs.com/author.png
+author_bio: 一个有趣的人
+author_location: 安徽·安庆
+
+# Social Links
+social:
+  weibo: https://weibo.com/geekmubai
+  github: https://github.com/geekmubai
+  bilibili: https://space.bilibili.com/167817331/#
+  facebook: https://blog.csdn.net/geekmubai
+  twitter: 
+  telegram:
+  youtube: 
+  # You only can use that I have added, I will keep adding
+
+# Footer Links
+footer_text: 
+  皖ICP备17018037号: http://www.miitbeian.gov.cn
+  # title: link
+  # 粤公网安备xxxxxxx号: http://www.beian.gov.cn
+
+# Widget
+widgets:
+  recent_posts: true
+  category: true
+  tagcloud: true
+  # This is a simple theme, I think 3 is enough.
+
+# Gallery
+# https://github.com/sachinchoolur/lightgallery.js
+lightgallery: true
+
+# LazyLoad
+# home page has enabled, this value is to post page
+# https://github.com/dinbror/blazy
+lazyload: true
+
+# Local Search
+local_search: true
+
+# Comment
+# https://valine.js.org
+comment: true
+valine:
+  notify: false # mail notifier , https://github.com/xCss/Valine/wiki 
+  verify: false # Verification code
+  appId: aBRltWkLKGNezPSGs1TBA0GE-gzGzoHsz
+  appKey: Tg0cJFUAcAbzFVaO5hwaRXsx
+  placeholder: 你是魔鬼吧，都不留言！ # comment box placeholder
+  pageSize: 10 # pagination size
+  avatar: mm # gravatar style
+
+# PWA
+# you need create a manifest.json file in hexo's source folder
+manifest: false
+service_workers: false
+
+navColor: '3c484e'
+
+# Baidu Push
+baidu: false
+
+# Google Analytics
+googleAnalytics: false
+GA_TRACKING_ID: UA-XXXXXXXXXX-1
