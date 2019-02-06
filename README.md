@@ -1,6 +1,8 @@
 # Hexo主题casper使用教程
-我看到的一个好的主题，对其中的部分代码进行了修改。 
+我看到的一个好的主题，对其中的部分代码进行了修改。
+
 原项目地址 https://github.com/xzhih/hexo-theme-casper
+
 DEMO https://blog.geekmubai.com
 
 ## 特性
